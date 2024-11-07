@@ -1,0 +1,5 @@
+**/__pycache__
+app.db
+logs
+.flaskenv
+myenv # Ihr Unterverzeichnis für das virtuelle Environment
